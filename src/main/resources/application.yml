@@ -1,0 +1,10 @@
+server:
+  port: 6060
+
+pokemon:
+  pokeapi:
+    base-url: https://pokeapi.co/api/v2
+
+spring:
+  cache:
+    type: caffeine
